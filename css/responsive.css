@@ -1,0 +1,183 @@
+@media screen and (min-width: 480px) {
+	/**********************
+	TWO COLUMN LAYOUT
+	**********************/
+	
+	#primary {
+		width: 50%;
+		float: left;
+	}
+	
+	#secondary {
+		width: 40%;
+		float: right;
+	}
+	
+	
+	/**********************
+	PAGE: PORTFOLIO
+	**********************/
+	#gallery li {
+		width: 28.333%;
+	}
+	
+	/**********************
+	PAGE: ABOUT
+	**********************/
+	
+	.profile-photo {
+		float: left;
+		margin: 0 5% 80px 0;
+	}
+
+	#about-page-id {
+		display: block;
+	}
+	
+	/**********************
+	OVERLAY
+	**********************/
+	#overlay img {
+		margin-top: 20%;
+		width: 50%; 
+	}
+	
+}
+
+@media screen and (min-width: 660px) {
+	/**********************
+	HEADER
+	**********************/
+	nav {
+		background: none;
+		float: right;
+		font-size: 1.125em;
+		margin-right: 5%;
+		text-align: right;
+		width: 45%;
+	}
+	
+	#logo {
+		float: left;
+		margin-left: 5%;
+		text-align: left;
+		width: 45%;
+	}
+	
+	h1 {
+		font-size: 2.5em;
+	}
+	
+	h2 {
+		font-size: 0.825em;
+		margin-bottom: 20px;
+	}
+	
+	header {
+		border-bottom: 5px solid #00aaff;
+		margin-bottom: 60px;
+	}
+	
+	#overlay img {
+		margin-top: 40%;
+		width: 70%; 
+	}
+}
+
+@media screen and (min-width:400px) {
+	#overlay img {
+		margin-top: 50%;
+		width: 60%; 
+	}
+}
+
+@media screen and (min-width:411px) {
+	#overlay img {
+		margin-top: 50%;
+		width: 80%; 
+	}
+}
+
+
+@media screen and (min-width:414px) {
+	#overlay img {
+		margin-top: 60%;
+		width: 60%; 
+	}
+}
+
+@media screen and (min-width:435px) {
+	#overlay img {
+		margin-top: 60%;
+		width: 80%;
+	}
+}
+
+@media screen and (min-width:568px) {
+	#overlay img {
+		margin-top: 15%;
+		width: 50%; 
+	}
+}
+
+
+@media screen and (min-width:640px) {
+	#overlay img {
+		margin-top: 20%;
+		width: 45%; 
+	}
+}
+
+
+
+@media screen and (min-width:665px) {
+	#overlay img {
+		margin-top: 20%;
+		width: 50%; 
+	}
+}
+
+@media screen and (min-width:731px) {
+	#overlay img {
+		margin-top: 40%;
+		width: 60%; 
+	}
+}
+
+@media screen and (min-width:736px) {
+	#overlay img {
+		margin-top: 20%;
+		width: 50%; 
+	}
+}
+
+@media screen and (min-width:768px) {
+	#overlay img {
+		margin-top: 40%;
+		width: 65%; 
+	}
+}
+
+
+
+@media screen and (min-width:773px) {
+	#overlay img {
+		margin-top: 15%;
+		width: 50%; 
+	}
+}
+
+
+@media screen and (min-width:1024px) {
+	#overlay img {
+		margin-top: 20%;
+		width: 70%; 
+	}
+}
+
+@media screen and (min-width:1280px) {
+	#overlay img {
+		margin-top: 10%;
+		width: 50%; 
+	}
+}
